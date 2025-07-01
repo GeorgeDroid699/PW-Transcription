@@ -1,0 +1,7 @@
+faster-whisper
+scikit-learn
+resemblyzer
+torchaudio
+pydub
+numpy
+tqdm
